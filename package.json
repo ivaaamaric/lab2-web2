@@ -2,7 +2,7 @@
   "name": "labos2",
   "version": "0.1.0",
   "proxy": "https://lab2-web2-backend.onrender.com",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
